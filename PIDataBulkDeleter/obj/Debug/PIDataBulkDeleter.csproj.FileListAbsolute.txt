@@ -1,0 +1,43 @@
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\bin\Debug\PIDataBulkDeleter.exe.config
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\bin\Debug\PIDataBulkDeleter.exe
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\bin\Debug\PIDataBulkDeleter.pdb
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\bin\Debug\OSIsoft.AF.UI.dll
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\bin\Debug\OSIsoft.AFSDK.dll
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\bin\Debug\ADODB.dll
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\bin\Debug\OSIsoft.AF.UI.xml
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\bin\Debug\OSIsoft.AFSDK.xml
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\obj\Debug\PIDataBulkDeleter.csprojResolveAssemblyReference.cache
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\obj\Debug\PIDataBulkDeleter.MainForm.resources
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\obj\Debug\PIDataBulkDeleter.Properties.Resources.resources
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\obj\Debug\PIDataBulkDeleter.csproj.GenerateResource.Cache
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\obj\Debug\PIDataBulkDeleter.exe
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\DataGenerator\obj\Debug\PIDataBulkDeleter.pdb
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\PIDataBulkDeleter.exe.config
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\obj\Debug\PIDataBulkDeleter.exe
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\obj\Debug\PIDataBulkDeleter.pdb
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\PIDataBulkDeleter.exe
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\PIDataBulkDeleter.pdb
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\OSIsoft.AF.UI.dll
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\OSIsoft.AFSDK.dll
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\ADODB.dll
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\OSIsoft.AF.UI.xml
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\OSIsoft.AFSDK.xml
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\obj\Debug\PIDataBulkDeleter.csprojResolveAssemblyReference.cache
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\obj\Debug\PIDataBulkDeleter.MainForm.resources
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\obj\Debug\PIDataBulkDeleter.Properties.Resources.resources
+C:\Users\fbatista\Documents\Visual Studio 2015\Projects\PIDataBulkDeleter\PIDataBulkDeleter\obj\Debug\PIDataBulkDeleter.csproj.GenerateResource.Cache
+E:\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\PIDataBulkDeleter.exe.config
+E:\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\PIDataBulkDeleter.exe
+E:\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\PIDataBulkDeleter.pdb
+E:\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\OSIsoft.AF.UI.dll
+E:\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\OSIsoft.AFSDK.dll
+E:\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\ADODB.dll
+E:\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\OSIsoft.AF.UI.xml
+E:\PIDataBulkDeleter\PIDataBulkDeleter\bin\Debug\OSIsoft.AFSDK.xml
+E:\PIDataBulkDeleter\PIDataBulkDeleter\obj\Debug\PIDataBulkDeleter.csprojResolveAssemblyReference.cache
+E:\PIDataBulkDeleter\PIDataBulkDeleter\obj\Debug\PIDataBulkDeleter.AttributeSelectionForm.resources
+E:\PIDataBulkDeleter\PIDataBulkDeleter\obj\Debug\PIDataBulkDeleter.MainForm.resources
+E:\PIDataBulkDeleter\PIDataBulkDeleter\obj\Debug\PIDataBulkDeleter.Properties.Resources.resources
+E:\PIDataBulkDeleter\PIDataBulkDeleter\obj\Debug\PIDataBulkDeleter.csproj.GenerateResource.Cache
+E:\PIDataBulkDeleter\PIDataBulkDeleter\obj\Debug\PIDataBulkDeleter.exe
+E:\PIDataBulkDeleter\PIDataBulkDeleter\obj\Debug\PIDataBulkDeleter.pdb
